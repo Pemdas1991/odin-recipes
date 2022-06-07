@@ -1,0 +1,32 @@
+ul {
+    font-size: 25px;
+    background-color: lightblue;
+    color: red;
+}
+
+
+ol {
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkorange;
+    font-weight: 700;
+}
+
+a { 
+    color: violet;
+}
+
+h1 {
+    color:darkviolet;
+    font-size: 40px;
+}
+
+h3 { color:red;
+font-size: 30px;}
+
+p {font-size: 25px;}
+
+img {
+    height: auto;
+    width: 500px;
+}
